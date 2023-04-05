@@ -9,10 +9,10 @@
     },
     {
         "id":"2",
-        "title":"User-Posts Application",
+        "title":"Posts-Users App",
         "domain":"Web development",
         "languages":"HTML,CSS,Bootstrap & JavaScript,ReactJS",
-        "link":"https://posts-users-app-haseenasa03.vercel.app/",
+        "link":"https://posts-users-app.vercel.app/",
         "githublink":"https://github.com/haseenasa03/posts-users-app.git"
     }
    ]
